@@ -1,0 +1,12 @@
+img {height:200px}
+div.container {background:gray}
+div.dir {background:white}
+h1.desc {background:red}
+h1.prog {background:green}
+h1.kurs {background:blue}
+img.python2 {width:500px;height:100px}
+h3.director {color:red}
+h3.manager {text-decoration:underline}
+h3.founder {color:yellow}
+h1.organization {line-height: 100%;text-align: center}
+img.python {width:700px;height:275px}
