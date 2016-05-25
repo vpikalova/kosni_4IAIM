@@ -1,0 +1,28 @@
+
+
+body{
+	font-family: 'Verdana';
+	color: #FF8C00;
+	font-weight: 300;
+}
+
+.text-muted{
+	color: #BCBBBB;
+}
+.text-thin{
+	font-weight:  100;
+}
+
+.title-super {
+	font-size:  40px;
+}
+
+.title-logo{
+	margin-top: 20px;
+	max-width: 100px;
+	max-height: 100px;
+}
+hr{
+	height: 2px;
+	background-color: 	#696969;
+}
